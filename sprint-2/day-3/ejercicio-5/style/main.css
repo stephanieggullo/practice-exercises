@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.success {
+    border: 1px solid green;
+    background-color: rgb(79, 214, 79);
+    color: green;
+}
+
+.error {
+    border: 1px solid red;
+    background-color: rgb(243, 146, 146);
+    color: red;
+}
+
+.warning {
+    border: 1px solid yellow;
+    background-color: rgb(236, 236, 150);
+    color: yellow;
+}

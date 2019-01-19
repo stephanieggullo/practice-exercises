@@ -1,0 +1,32 @@
+.container {
+    background-color: rgb(245, 245, 234);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mood {
+    font-size: 100px;
+}
+
+.moodbtn {
+    height: 20px;
+    width: 50px;
+}
+
+.even {   
+    background-color: yellow;
+}
+
+.odd {   
+    background-color: orange;
+}
